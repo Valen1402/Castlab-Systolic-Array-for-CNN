@@ -24,7 +24,7 @@ Hardware accelerator for CNN computation using weight-stationary systolic array
 
 **V. Operation**
 
-![image](https://github.com/Valen1402/Castlab-Systolic-Array-for-CNN/assets/82108029/1eec0d27-2458-410b-89d6-3aca010ba913)
+![Capture1](https://github.com/Valen1402/Castlab-Systolic-Array-for-CNN/assets/82108029/5688a6ca-6f2c-4cfb-9dbd-ce2d9705a2b3)
 
 ![image](https://github.com/Valen1402/Castlab-Systolic-Array-for-CNN/assets/82108029/2593dec6-7d74-45e9-bd4f-581db3db19fa)
 

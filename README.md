@@ -3,7 +3,7 @@ Hardware accelerator for CNN computation using weight-stationary systolic array
 
 **I. Top Architecture**
 
-![image](https://github.com/Valen1402/Castlab-Systolic-Array-for-CNN/assets/82108029/de1e12fb-730c-4f70-813a-9796adc705db)
+![Capture1](https://github.com/Valen1402/Castlab-Systolic-Array-for-CNN/assets/82108029/b55b0c24-8c9e-4ad8-9297-e0bce9872ade)
 
 **II. Features**
   - Data Transfer from Source Address to Destination Address

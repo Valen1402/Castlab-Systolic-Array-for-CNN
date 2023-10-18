@@ -2,6 +2,7 @@
 Hardware accelerator for CNN computation using weight-stationary systolic array
 
 **I. Top Architecture**
+
 ![image](https://github.com/Valen1402/Castlab-Systolic-Array-for-CNN/assets/82108029/de1e12fb-730c-4f70-813a-9796adc705db)
 
 **II. Features**
@@ -10,6 +11,7 @@ Hardware accelerator for CNN computation using weight-stationary systolic array
   - SRAM Data Granularity: 4byte
   - Unaligned Address supported
   - Test mode
+
 ![image](https://github.com/Valen1402/Castlab-Systolic-Array-for-CNN/assets/82108029/e19366b3-367f-40e2-b7e2-08986872f373)
 
 **III. Interface**
